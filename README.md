@@ -12,6 +12,7 @@ I build projects that connect firmware, sensors, and physical hardware. Currentl
 
 | Project | Overview | Technologies |
 | --- | --- | --- |
+| [Happy Granny — Smart Pill Dispenser](https://github.com/Tasawarsanjarrahman/RevolutionUC) | RevolutionUC team prototype. Developed ESP32-S3 firmware for BLE commands, servo positioning, and DC motor control. | C++, Arduino, ESP32-S3, BLE, L298N |
 | [Reactor Monitoring & Control](https://github.com/ThPhong20/reactor) | Firmware for pH/EC acquisition, TFT display, and three-pump control. In development; integrated hardware validation is pending. | C++, ESP-IDF, ESP32-S3 |
 | [Wearable Motion Sensing](https://github.com/ThPhong20/BSRS-IoT-ADHD-Screening) | Prototype that captures accelerometer and gyroscope readings and streams them as serial CSV. | ESP32-S3, MPU6050, I²C, PlatformIO |
 
