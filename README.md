@@ -21,5 +21,3 @@ I build projects that connect firmware, sensors, and physical hardware. Currentl
 - **Programming:** C, C++, Python, MATLAB
 - **Embedded:** ESP32, STM32, ESP-IDF, Arduino, UART, I²C, SPI
 - **Design & development:** KiCad, Fusion 360, Git, Linux
-
-Outside engineering, I enjoy soccer, badminton, music, and reading.
