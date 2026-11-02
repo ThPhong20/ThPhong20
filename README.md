@@ -13,7 +13,6 @@ I build projects that connect firmware, sensors, and physical hardware. Currentl
 | Project | Overview | Technologies |
 | --- | --- | --- |
 | [Reactor Monitoring & Control](https://github.com/ThPhong20/reactor) | Firmware for pH/EC acquisition, TFT display, and three-pump control. In development; integrated hardware validation is pending. | C++, ESP-IDF, ESP32-S3 |
-| [DeltaX Beverage Robot](https://github.com/ThPhong20/Bartender-DeltaxS-Robot) | Browser ordering interface connected to robot command sequencing, with a hardware-free simulation mode. Physical calibration is pending. | Python, Flask, G-Code, USB serial |
 | [Wearable Motion Sensing](https://github.com/ThPhong20/BSRS-IoT-ADHD-Screening) | Prototype that captures accelerometer and gyroscope readings and streams them as serial CSV. | ESP32-S3, MPU6050, I²C, PlatformIO |
 
 ## Tools I work with
